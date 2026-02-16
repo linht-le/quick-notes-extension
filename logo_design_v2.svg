@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dynamic Shadow -->
+  <rect x="70" y="70" width="380" height="380" rx="16" fill="#1a1a1a" />
+
+  <!-- Main Note Body with Folded Corner Clip -->
+  <path d="M60 60 H440 V340 L340 440 H60 Z" fill="#fff9c4" stroke="#1a1a1a" stroke-width="28" stroke-linejoin="round" />
+
+  <!-- The Folded Corner Triangle -->
+  <path d="M340 440 V340 H440 L340 440 Z" fill="#f0e68c" stroke="#1a1a1a" stroke-width="28" stroke-linejoin="round" />
+
+  <!-- Subtle aesthetic detail: Pencil-like mark -->
+  <circle cx="160" cy="160" r="28" fill="#1a1a1a" />
+</svg>

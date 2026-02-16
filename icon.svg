@@ -1,0 +1,17 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with Thick Border -->
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="#fff9c4" stroke="#1a1a1a" stroke-width="6"/>
+
+  <!-- Shadow (Modern/LingoSky style) -->
+  <path d="M120 40V120H40" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Note Lines -->
+  <line x1="35" y1="45" x2="93" y2="45" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.2"/>
+  <line x1="35" y1="65" x2="93" y2="65" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.2"/>
+  <line x1="35" y1="85" x2="70" y2="85" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.2"/>
+
+  <!-- Plus Icon (Action symbol) -->
+  <circle cx="95" cy="95" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+  <line x1="95" y1="88" x2="95" y2="102" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="88" y1="95" x2="102" y2="95" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+</svg>
